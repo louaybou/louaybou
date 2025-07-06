@@ -32,8 +32,8 @@
 
 ### 📈 GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=louaybourkhiss&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louaybourkhiss&layout=compact&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=louaybous&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louaybou&layout=compact&theme=radical)
 
 
 
