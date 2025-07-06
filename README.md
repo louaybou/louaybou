@@ -31,9 +31,5 @@
 ![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white)
 ---
 
-### 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=louaybou&show_icons=true&theme=radical)
-
 
 
