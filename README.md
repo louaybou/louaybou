@@ -11,61 +11,29 @@
 
 ### 🧠 Technical Skills
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/git.svg" alt="Git" width="40" height="40"/>
-</a>
-<a href="https://github.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/github.svg" alt="GitHub" width="40" height="40"/>
-</a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/java.svg" alt="Java" width="40" height="40"/>
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/node-dot-js.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://www.php.net/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/php.svg" alt="PHP" width="40" height="40"/>
-</a>
-<a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/express.svg" alt="Express.js" width="40" height="40"/>
-</a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mongodb.svg" alt="MongoDB" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/mysql.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/postman.svg" alt="Postman" width="40" height="40"/>
-</a>
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linux.svg" alt="Linux" width="40" height="40"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/c.svg" alt="C" width="40" height="40"/>
-</a>
-<a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cplusplus.svg" alt="C++" width="40" height="40"/>
-</a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/python.svg" alt="Python" width="40" height="40"/>
-</a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/githubactions.svg" alt="CI/CD" width="40" height="40"/>
-</a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/docker.svg" alt="Docker" width="40" height="40"/>
-</a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/amazonaws.svg" alt="AWS" width="40" height="40"/>
-</a>
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/googlecloud.svg" alt="Cloud Computing" width="40" height="40"/>
-</a>
-<a href="https://www.cisco.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/cisco.svg" alt="Networking" width="40" height="40"/>
-</a>
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A0A0A?logo=githubactions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-4285F4?logo=googlecloud&logoColor=white)
+![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white)
 ---
+
+### 📈 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=louaybou&show_icons=true&theme=radical)
 
 
 
