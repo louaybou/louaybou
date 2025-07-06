@@ -17,6 +17,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
@@ -29,11 +30,6 @@
 ![Networking](https://img.shields.io/badge/Networking-0078D7?logo=cisco&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=louaybous&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=louaybou&layout=compact&theme=radical)
 
 
 
