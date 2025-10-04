@@ -3,7 +3,7 @@
 🎓 Student in **Network and Telecommunication Engineering** at the  
 **National Institute of Applied Sciences and Technology (INSAT)**
 
-💻I am currently advancing my skills in backend development with Node.js, with a keen interest in cloud computing and DevOps practices.
+💻I am currently advancing my skills in cloud computing and DevOps, with a focus on AWS infrastructure, automation, and CI/CD pipelines.
 
 🌱 Always eager to learn and collaborate on innovative projects.
 
